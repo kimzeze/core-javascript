@@ -1,0 +1,10 @@
+body {
+  height: 10vh;
+}
+
+h1 {
+  background: pink;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
